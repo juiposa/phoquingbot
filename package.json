@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "node src/bot.js"
+    },
+    "name": "sqd-discord-bot",
+    "version": "1.0.0",
+    "description": "SQD Discord Bot",
+    "main": "bot.js",
+    "author": "Jeffrey-David Kapp",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "googleapis": "27"
+    }
+}
